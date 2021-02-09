@@ -1,4 +1,5 @@
 # FlaskIntroduction
+[YouTube Link](https://youtu.be/Z1RJmh_OqeA)
 
 This repo has been updated to work with `Python v3.8` and up.
 
